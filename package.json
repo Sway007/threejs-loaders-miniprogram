@@ -1,5 +1,5 @@
 {
-  "name": "threejs-loaders-miniprogram",
+  "name": "@tencent/threejs-loaders-miniprogram",
   "version": "1.0.0",
   "description": "ThreeJS model loader adapter for WeChat MiniProgram",
   "main": "./src/index.ts",
